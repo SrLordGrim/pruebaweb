@@ -1,0 +1,45 @@
+.player_bar__4w5S0,
+.player_controls__Fwch1,
+.player_player__BaAsE,
+.player_volume__bcRdC {
+  align-items: center;
+  justify-content: center;
+  gap: 1vw;
+}
+
+.player_player__BaAsE {
+  width: 100%;
+  padding: 9px 3vw;
+  gap: 1vw;
+}
+
+.player_controls__Fwch1 {
+  font-size: 14px;
+  font-family: rainyhearts, sans-serif;
+  max-width: 35%;
+  width: 100%;
+}
+
+.player_bar__4w5S0 {
+  min-width: 50%;
+}
+
+.player_bar-slider___ttev {
+  width: 100%;
+  max-width: 600px;
+}
+
+.player_volume__bcRdC {
+  max-width: 35%;
+  width: 100%;
+}
+
+.player_volume-slider__9wD9s {
+  width: 100%;
+  max-width: 110px;
+}
+
+.player_playlist-menu__KJ8db {
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+}
